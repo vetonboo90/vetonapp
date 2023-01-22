@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vetonapp/static/css/main.8bc37bae.css",
+    "main.js": "/vetonapp/static/js/main.0085e669.js",
+    "static/js/787.95e7e70e.chunk.js": "/vetonapp/static/js/787.95e7e70e.chunk.js",
+    "static/media/SEGA.woff": "/vetonapp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/vetonapp/index.html",
+    "main.8bc37bae.css.map": "/vetonapp/static/css/main.8bc37bae.css.map",
+    "main.0085e669.js.map": "/vetonapp/static/js/main.0085e669.js.map",
+    "787.95e7e70e.chunk.js.map": "/vetonapp/static/js/787.95e7e70e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc37bae.css",
+    "static/js/main.0085e669.js"
+  ]
+}
